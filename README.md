@@ -12,7 +12,8 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
-[Video](https://www.youtube.com/watch?v=YJl9yuUBB1E)
+[Serial Monitor Video](https://www.youtube.com/watch?v=YJl9yuUBB1E)
+[Web Browser Video](https://www.youtube.com/watch?v=lA-_k7IY6Ig)
 
 ## Part B. Web Camera
 
