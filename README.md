@@ -9,8 +9,10 @@
 1. Answer the questions in-line below on your README.md.
 
 ## Part A. HelloYou from the Raspberry Pi
-
+https://www.youtube.com/watch?v=YJl9yuUBB1E
 **a. Link to a video of your HelloYou sketch running.**
+
+[Video](https://www.youtube.com/watch?v=YJl9yuUBB1E)
 
 ## Part B. Web Camera
 
