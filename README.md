@@ -19,6 +19,7 @@
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
+
 The differences were of the extra functionality of webcam section. In pictureServer.js, there were button to take picture, dynamic variables, function for taking a picture, saving it and then displaying the picture in the browser.  
 
 
