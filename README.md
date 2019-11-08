@@ -33,4 +33,8 @@ The differences were of the extra functionality of webcam section. In pictureSer
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+I used Nodemailer to send the picture of object to the email after being clicked. Initially I was failing to attach the picture but later I succeeded to attach the picture when I corrected my syntax :)
+
 **b. Upload a video of your working modified project**
+
+[Video](https://www.youtube.com/watch?v=Ce_DOs7U3NA)
